@@ -1,4 +1,4 @@
-# I used an AI assistant for parts of the implementation but the design decisions, debugging and live testing are mine and I’m happy to walk through any of it
+# I used an AI assistant for some parts of the implementation but the design decisions, debugging and live testing are mine and I’m happy to walk through any of it
 
 
 # GenAI Report Agent
